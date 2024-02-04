@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:3072/1*XMJIPaq73Qw7MoLNx9_zig.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/38094b95235473.5e92ecc4409a8.gif)](#)
 <h1 align="center">Hi 👋, I'm PUNIT SINGH BISHT</h1>
 <h3 align="center">A passionate Game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/PSBVISION/PSBVISION/assets/114064992/68eaa49d-46a2-44b4-8d72-ee3f2958517a">
