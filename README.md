@@ -36,9 +36,10 @@
 <br/>
 
 
-![psbvision's GitHub stats](https://github-readme-stats.vercel.app/api?username=psbvision&show_icons=true&theme=aura_dark)
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=psbvision&count_private=true&show_icons=true&theme=aura_dark&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=psbvision&theme=aura_dark)](https://git.io/streak-stats)
+ <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=psbvision&count_private=true&theme=aura_dark&border_radius=10" alt="streak stats"/>
+
 <br/>
