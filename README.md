@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psbvision&label=Profile%20views&color=0e75b6&style=flat" alt="psbvision" /> </p>
 
-<p align="left"> <a href="https://twitter.com/psbishtvision" target="blank"><img src="https://img.shields.io/twitter/follow/psbishtvision?logo=twitter&style=for-the-badge" alt="psbishtvision" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PSBVISION_X" target="blank"><img src="https://img.shields.io/twitter/follow/PSBVISION_X?logo=twitter&style=for-the-badge" alt="PSBVISION_X" /></a> </p>
 
 - 🔭 I’m currently working on **Fighting game using vanilla JS**
 
