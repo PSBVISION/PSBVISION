@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Python, Gadot game engine**
 
-- 📫 How to reach me **psb.vision.02@gmail.com**
+- 📫 How to reach me **psbvision.engineer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
